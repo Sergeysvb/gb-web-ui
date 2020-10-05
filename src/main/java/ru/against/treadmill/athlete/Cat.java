@@ -26,4 +26,5 @@ public class Cat implements Athlete{
     public double getMaxHeight() {
         return maxJump;
     }
+
 }

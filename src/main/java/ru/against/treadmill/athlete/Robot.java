@@ -26,4 +26,5 @@ public class Robot implements Athlete {
     public double getMaxHeight() {
         return maxJump;
     }
+
 }

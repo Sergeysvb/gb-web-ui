@@ -9,6 +9,7 @@ import ru.against.treadmill.obstacle.Wall;
 
 public class WallUseTest {
 
+
     @Test
     void positiveJumpCatOnWall() {
         WallUse wallService = new WallUse();

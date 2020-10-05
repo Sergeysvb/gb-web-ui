@@ -13,4 +13,5 @@ public class Wall implements Obstacle{
         return sizeObstacles;
     }
 
+
 }

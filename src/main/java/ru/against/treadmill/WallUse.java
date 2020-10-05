@@ -5,6 +5,7 @@ import ru.against.treadmill.obstacle.Obstacle;
 
 public class WallUse {
 
+
     public boolean jumpToWall(Athlete athlete, Obstacle obstacle){
         double actualAthlete = athlete.getMaxHeight();
         double actualObstacle = obstacle.getSizeObstacles();

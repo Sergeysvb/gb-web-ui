@@ -11,4 +11,5 @@ public class Treadmill implements Obstacle{
     public double getSizeObstacles() {
         return sizeObstacles;
     }
+
 }

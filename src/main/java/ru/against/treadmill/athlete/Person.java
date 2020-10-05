@@ -26,4 +26,5 @@ public class Person implements Athlete{
     public double getMaxHeight() {
         return maxJump;
     }
+
 }
