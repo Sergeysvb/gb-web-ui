@@ -5,6 +5,7 @@ import ru.against.treadmill.obstacle.Obstacle;
 
 public class TreadmillUse {
 
+
     public boolean runOnTreadmill(Athlete athlete, Obstacle obstacle){
         double actualAthlete = athlete.getMaxDistance();
         double actualObstacle = obstacle.getSizeObstacles();

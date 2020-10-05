@@ -9,6 +9,7 @@ import ru.against.treadmill.obstacle.Treadmill;
 
 public class TreadmillUseTest {
 
+
     @Test
     void positiveRunCatOnTreadmill() {
         TreadmillUse treadmillService = new TreadmillUse();
